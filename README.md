@@ -17,8 +17,7 @@ Para entender mejor los factores que influyen en la conversión de los usuarios,
     - Archivo pdf con memoria
 - Notebooks
     - Carpeta Data con el dataset
-    - Jupter Eda
-    - Juiter borrador
+    - EDA_user_conversion_analysis
 - Presentation
     - Archivo pdf con presentación
 
